@@ -1,5 +1,5 @@
 {
-	"version": "0.203.2",
+	"version": "1.2.0",
 	"build": {
 		"latest": true,
 		"rootDistro": "debian",
@@ -31,14 +31,15 @@
 			"numpy",
 			"certifi",
 			"setuptools",
-			"future",
 			"wheel",
 			"nbconvert",
 			"py",
 			"pyOpenssl",
-			"werkzeug",
+			"Werkzeug",
 			"requests",
-			"tornado"
+			"tornado",
+			"transformers",
+			"jupyter_server"
 		],
 		"other": {
 			"git": {},
